@@ -15,7 +15,7 @@
 	<div class="mx-auto max-w-5xl">
 		<header class="mb-8 text-center">
 			<h1 class="text-3xl font-extrabold text-gray-900 tracking-tight">Bulk File Downloader</h1>
-			<p class="mt-2 text-gray-500 max-w-lg mx-auto">Upload a CSV file containing URLs and desired filenames. We'll handle the rest.</p>
+			<p class="mt-2 text-gray-500  mx-auto">Download a list of files by uploading a CSV containing URLs and desired filenames.</p>
 		</header>
 
 		{#if downloader.files.length === 0}
