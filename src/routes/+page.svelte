@@ -7,10 +7,6 @@
 	const downloader = new DownloaderState();
 </script>
 
-<svelte:head>
-	<title>Bulk File Downloader</title>
-</svelte:head>
-
 <div class="min-h-screen bg-gray-50 p-4 sm:p-8 text-gray-800 font-sans">
 	<div class="mx-auto max-w-5xl">
 		<header class="mb-8 text-center">
